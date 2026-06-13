@@ -6,10 +6,8 @@ I also create **Aplication Porgramming Interface, software development, and buni
   <img src="https://img.shields.io/badge/Status-Working%20from%20home-111827?style=for-the-badge&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Perfil-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Angola%2C%20Luanda-111827?style=for-the-badge&logo=googlemaps" alt="Localização" />
-
 </a>
-<a href="https://instagram.com/dcunha_oficial">
-   <img src=https//img.shields.io/badge/Instagram-@DCUNHA_OFICIALE4405F?stylefor-the-badge&logoinstagram&logoColorwhite" />
+
 
 ## Sobre mim
 
