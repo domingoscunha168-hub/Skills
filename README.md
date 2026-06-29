@@ -1,6 +1,5 @@
 # Domingos Cunha | `domingoscunha168-hub`
-Programmer Data analysis and backend. Architecture construction, Systems functionally solver, and business logic solutions**.
-I also create **Aplication Porgrammer Interface, software development, and buninns**
+Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally solver and business logic solutions**.
 
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Angola%2C%20Luanda-111827?style=for-the-badge&logo=googlemaps" alt="Localização" />
 </a>
@@ -8,29 +7,29 @@ I also create **Aplication Porgrammer Interface, software development, and bunin
 
 ## Sobre mim
 
--   🏗️ Backend development (APIs, systems & services)
--   ⚙  Custom software development
--   🗄  Database & system design
--   🔐 Secure APIs & authentication
--   🚀 Performace optimization & scalability 
--   🔁 Automation & system integrations
--   📊 Data processing & analytics
--   🕵🏼‍♂️ System analysis & architecture
+- 🏗️ Backend development (APIs, systems & services)
+- ⚙  Custom software development
+- 🗄  Database & system design
+- 🔐 Secure APIs & authentication
+- 🚀 Performace optimization & scalability 
+- 🔁 Automation & system integrations
+- 📊 Data processing & analytics
+- 🕵🏼‍♂️ System analysis & architecture
 
-  ## Onde me encontrar:
+## Onde me encontrar
 
 - [LinkedIn](https://www.linkedln.com/in/domingoscunha168)
 - [Instagram](https://www.instagram.com/dcunha_oficial?igsh=bnU3d2JrczZrdm9m)
 
-- Gosto de executar projetos que envolvem:
+## Gosto de executar projetos que envolvem
 
-- engenharia de software
-- logica de negocio
-- performance
-- arquitetura
+- Engenharia de software
+- Logica de negocio
+- Performance
+- Arquitetura
+- Cibersegury
 
-## Stack principal:
-
+## Stack principal
 ### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,8 +41,6 @@ I also create **Aplication Porgrammer Interface, software development, and bunin
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs)
 
 ![SQL](https://img.shields.io/badge/SQL-009688?style=for-the-badge&logo=csharp)
-
-## Cibersegury
 
 ### DevOps e ferramentas
 
