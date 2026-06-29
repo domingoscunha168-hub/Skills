@@ -1,10 +1,7 @@
 # Domingos Cunha | `domingoscunha168-hub`
-Data analysis and Devlop backend. I do **architecture construction, Systems functionally solver, and business logic solutions**.
+Programmer Data analysis and backend. Architecture construction, Systems functionally solver, and business logic solutions**.
 I also create **Aplication Porgrammer Interface, software development, and buninns**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Working%20from%20home-111827?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Perfil-GitHub-111827?style=for-the-badge&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Angola%2C%20Luanda-111827?style=for-the-badge&logo=googlemaps" alt="Localização" />
 </a>
 
