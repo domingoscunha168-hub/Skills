@@ -1,17 +1,17 @@
 # Domingos Cunha | `domingoscunha168-hub`
-Programmer of Software specifically Developer Backend.**I also create Aplication Porgrammer Interface, software development, Architecture construction, Systems functionally and solutions**.
+Programmer of Software specifically Developer Backend. I also built systems with an architecture functionally and solutions**.
 
 
 ## Sobre mim
 
-- 🏗️ Backend development (APIs, systems & services)
-- ⚙  Custom software development
-- 🗄  Database & system design
-- 🔐 Secure APIs & authentication
-- 🚀 Performace optimization & scalability 
-- 🔁 Automation & system integrations
-- 📊 Data processing & analytics
-- 🕵🏼‍♂️ System analysis & architecture
+- Backend development (APIs, systems & services)
+- Custom software development
+- Database & system design
+- Secure APIs & authentication
+- Performace optimization & scalability 
+- Automation & system integrations
+- Data processing & analytics
+- System analysis & architecture
 
 ## Onde me encontrar
 
